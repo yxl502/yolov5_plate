@@ -1,0 +1,4 @@
+请按照requirements.txt安装配置相应的环境，版本要对应下载匹配的
+运行detect.py文件启动
+plate-main\inference\images文件夹下是测试图片，可以放视频格式的文件
+\plate-main\inference\output文件夹下是输出文件
